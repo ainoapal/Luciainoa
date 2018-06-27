@@ -1,0 +1,60 @@
+
+.imagen img {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.ofertas{
+  background-color: red;
+  font-size: 60px;
+  font-family: fantasy;
+  height:80px;
+  margin-top: 30px;
+  margin-right: 20px;
+}
+
+
+
+.background{
+  background-color:#80ccff;
+}
+
+#btnGroupDrop1{
+  background-color: #000099;
+  margin-top: 30px;
+}
+
+.col-sm-2 {
+  margin-top: 20px;
+}
+
+.sector3{
+  margin-top: 20px;
+}
+
+.carrito {
+  margin-left: 50px;
+}
+
+.tamanyocarr{
+  width: 70%;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+
+.frasepopulares{
+  font-size: 30px;
+  font-family: serif;
+  margin-top: 10px;
+  margin-left: 250px;
+}
+
+hr{
+  border: 50px solid black;
+}
+
+.tamanocarr {
+  width: 50%;
+  margin-left: 200px;
+  margin-top: 30px;
+}
